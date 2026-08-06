@@ -13,4 +13,4 @@
 
 ## Українська література 
 
-1. Артур Дронь - Хемінгуей нічого не знає
+1. **Артур Дронь - Хемінгуей нічого не знає** [нотатка](https://github.com/newbradb/reading_list/blob/main/Artur_dron_Hamingway.md)
