@@ -15,7 +15,7 @@
 ## Українська література 
 
 1. **Артур Дронь - Хемінгуей нічого не знає** [нотатка](https://github.com/newbradb/reading_list/blob/main/Artur_dron_Hamingway.md)
-2. **Іван Франко - на дні ** [нотатка]()
+2. **Іван Франко - на дні ** [нотатка](https://github.com/newbradb/reading_list/blob/main/Ivan_Franko.md)
 
 
 # Хочу прочитати
